@@ -1,0 +1,62 @@
+PRIVATE ENTERPRISE NUMBERS
+
+(last updated 2008-10-08)
+
+Bindle Binaries Developers' Private Enterprise Numbers:
+   1.3.6.1.4.1		- iso.org.dod.internet.private.enterprise
+   1.3.6.1.4.1.27893	- DMS, "David M. Syzdek <oid&syzdek.net>
+   1.3.6.1.4.1.27893.0	- Reserved
+   1.3.6.1.4.1.27893.1	- Organizational Units
+   1.3.6.1.4.1.27893.2	- Reserved
+   1.3.6.1.4.1.27893.3	- Third Party Assignments
+
+Prefix: iso.org.dod.internet.private.enterprise.dms (1.3.6.1.4.1.27893)
+
+This file is git://git.scm.bindlebinaries.net/pub/scm/docs/bbd-pen.git
+
+Decimal
+| Organization
+| | Contact
+| | | Email
+| | | |
+0
+  Reserved
+    Bindle Binaries
+      oid&bindlebinaries.net
+
+1
+  Organizational Units
+    Bindle Binaries
+      oid&bindlebinaries.net
+
+1.0
+  Reserved
+    Bindle Binaries
+      oid&bindlebinaries.net
+
+1.1
+  syzdek.net
+    David M. Syzdek
+      oid&syzdek.net
+
+1.2
+  Bindle Binaries
+    David M. Syzdek
+      oid&bindlebinaries.net
+
+2
+  Reserved
+    Bindle Binaries
+      oid&bindlebinaries.net
+
+3
+  Third Party Assignments
+    Bindle Binaries
+      oid&bindlebinaries.net
+
+3.0
+  Reserved
+    Bindle Binaries
+      oid&bindlebinaries.net
+
+End of Document
