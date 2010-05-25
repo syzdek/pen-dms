@@ -44,6 +44,11 @@ Decimal
     David M. Syzdek
       oid&bindlebinaries.net
 
+1.2.1
+  Bindle Binaries (AutoOID)
+    David M. Syzdek
+      syzdek@bindlebinaries.com
+
 2
   Reserved
     Bindle Binaries
