@@ -12,7 +12,7 @@ Bindle Binaries Developers' Private Enterprise Numbers:
 
 Prefix: iso.org.dod.internet.private.enterprise.dms (1.3.6.1.4.1.27893)
 
-This file is git://git.scm.bindlebinaries.net/pub/scm/docs/bbd-pen.git
+This file is git://git.scm.bindlebinaries.com/pub/scm/com.bindlebinaries.docs/bbd-pen.git
 
 Decimal
 | Organization
