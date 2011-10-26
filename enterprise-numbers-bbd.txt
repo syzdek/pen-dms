@@ -49,6 +49,11 @@ Decimal
     David M. Syzdek
       syzdek@bindlebinaries.com
 
+1.2.2
+  Bindle Binaries (Catholic Hierarchy)
+    David M. Syzdek
+      syzdek@bindlebinaries.com
+
 2
   Reserved
     Bindle Binaries
