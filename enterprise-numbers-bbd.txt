@@ -50,6 +50,11 @@ Decimal
       syzdek@bindlebinaries.com
 
 1.2.2
+  Bindle Binaries (Family Tree)
+    David M. Syzdek
+      syzdek@bindlebinaries.com
+
+1.2.3
   Bindle Binaries (Catholic Hierarchy)
     David M. Syzdek
       syzdek@bindlebinaries.com
