@@ -1,6 +1,6 @@
 PRIVATE ENTERPRISE NUMBERS
 
-(last updated 2008-10-08)
+(last updated 2019-11-24)
 
 David M. Syzdek's Private Enterprise Numbers:
    1.3.6.1.4.1			- iso.org.dod.internet.private.enterprise
@@ -8,7 +8,7 @@ David M. Syzdek's Private Enterprise Numbers:
    1.3.6.1.4.1.27893.1		- Organizational Units, "David M. Syzdek" <oid&syzdek.net>
    1.3.6.1.4.1.27893.1.2	- Bindle Binaries, "David M. Syzdek" <oid&bindlebinaries.com>
 
-Prefix: iso.org.dod.internet.private.enterprise.dms (1.3.6.1.4.1.27893)
+Prefix: iso.org.dod.internet.private.enterprise.dms.ou.bindle (1.3.6.1.4.1.27893.1.2)
 
 This file is git://git.scm.bindlebinaries.com/pub/scm/com.bindlebinaries.docs/bbd-pen.git
 
