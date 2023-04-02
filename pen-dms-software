@@ -28,4 +28,10 @@ Decimal
       oid&syzdek.net
         https://github.com/bindle/ldap-utils
 
+2
+  OpenLDAP pwdPolicy/shadowAccount Overlay (slapo-pwdshadow)
+    David M. Syzdek
+      oid&syzdek.net
+        https://github.com/syzdek/slapo-pwdshadow
+
 End of Document
