@@ -34,4 +34,10 @@ Decimal
       oid&syzdek.net
         https://github.com/syzdek/slapo-pwdshadow
 
+3
+  OpenLDAP Hello World Overlay (slapo-helloworld)
+    David M. Syzdek
+      oid&syzdek.net
+        https://github.com/syzdek/slapo-helloworld
+
 End of Document
